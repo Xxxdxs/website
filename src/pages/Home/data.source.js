@@ -151,7 +151,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '一个高效的页面动画解决方案',
+          children: '东半球最好的销售',
         },
         button: { className: 'banner1-button', children: 'Learn More' },
       },
