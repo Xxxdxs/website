@@ -144,14 +144,14 @@ export const Banner10DataSource = {
           children: (
             <span>
               <span>
-                <p>金总官网</p>
+                <p>金音鑫</p>
               </span>
             </span>
           ),
         },
         content: {
           className: 'banner1-content',
-          children: '东半球最好的销售',
+          children: '可能是东半球最好的销售',
         },
         button: { className: 'banner1-button', children: 'Learn More' },
       },
@@ -167,7 +167,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '北半球最好的销售',
+          children: '可能是北半球最好的销售',
         },
         button: { className: 'banner1-button', children: 'Learn More' },
       },
@@ -191,7 +191,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '全地球最好的销售',
+          children: '可能是汉枫最好的销售',
         },
         button: { className: 'banner1-button', children: 'Learn More' },
       },
