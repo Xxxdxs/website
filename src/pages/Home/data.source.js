@@ -167,7 +167,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '东半球最好的销售',
+          children: '北半球最好的销售',
         },
         button: { className: 'banner1-button', children: 'Learn More' },
       },
@@ -191,7 +191,7 @@ export const Banner10DataSource = {
         },
         content: {
           className: 'banner1-content',
-          children: '东半球最好的销售',
+          children: '全地球最好的销售',
         },
         button: { className: 'banner1-button', children: 'Learn More' },
       },
